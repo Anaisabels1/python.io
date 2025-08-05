@@ -1,0 +1,5 @@
+Olá, meu nome é Ana. Nasci em 15/08/1995.
+Você pode me enviar um e-mail para ana.silva@gmail.com ou ligar para 11 98765-4321.
+Meu CPF é 123.456.789-00. Estarei disponível até 20-09-2025, obrigado,
+e não se esqueça, a entrega é dia 01/01/2024.
+Hoje é um bom dia para aprender Python, expressões regulares, e orientação a objetos.
